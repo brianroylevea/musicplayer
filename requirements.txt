@@ -12,7 +12,7 @@ django-environ==0.4.5
 django-model-utils==4.0.0
 django-redis==4.12.1
 djangorestframework==3.11.0
-idna==2.10
+idna==3.7
 oauthlib==3.1.0
 pycparser==2.20
 python-decouple==3.3
